@@ -1,97 +1,1336 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "advertisement": [
-    {
-      "id": 1,
-      "img": "https://s0.2mdn.net/simgad/15455256095868308298"
-    },
-    {
-      
-      "id": 2,
-      "img": "https://tpc.googlesyndication.com/simgad/17609750535360873687?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qk1D97j3bFpKuWPW4sP_TfNYR2M_Q"
-    },
-    {
-      "id": 3,
-      "img": "https://s0.2mdn.net/9291847/0121_EN_LSS_APAC_ConnectWDecisionMakers_LearnMore_300x250.png"
-    },
-    {
-      "id": 4,
-      "img": "https://tpc.googlesyndication.com/simgad/14872409437734601541?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qll2LEOZhlrTSJD0kRJfGhx-uq63w"
-    },
-    {
-      "id":5,
-      "img": "https://tpc.googlesyndication.com/simgad/18269697451596243169?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4qmdGgYLAzeUiinGsn_ly19XYNPkWw"
-    },
-    {
-      "id":6,
-      "img":"https://tpc.googlesyndication.com/simgad/5601865039053721583?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qnEuSC5ESIQQnWtAu6_iBky9bZ0rQ"
-    },
-    {
-      "id":7,
-      "img": "https://tpc.googlesyndication.com/simgad/9191058842479565689?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qlxqlEYJKc1ChKJntlZ-7O5ZmAUpA"
-    },
-    {
-      "id":8,
-      "img": "https://tpc.googlesyndication.com/simgad/12390845631899955543?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4qk7CI46mXAj7MVqBImnUqOE1h1KHQ"
-    },
-    {
-      "id":9,
-      "img":"https://tpc.googlesyndication.com/simgad/6769301854873088857?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qmfjSFv9o6zAbh1kN2vomqA4QGfcA"
-    },
-    {
-      "id":10,
-      "img":"https://tpc.googlesyndication.com/simgad/18278014132796209250?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qmY04m-20PPkR9IAmqGOtQSgZ9WfQ"
-    },
-    {
-      "id":11,
-      "img": "https://tpc.googlesyndication.com/simgad/3042449755104617105?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4qkuMd09yuL4O-Cmt-mcGQ0uJ_ZUhw"
-    }
-   
-  ],
-  "adsCorner": [
-    {
-      "id":1,
-      "img":"https://i.postimg.cc/ZY3vrqVy/banner2.png"
-    },
-    {
-      "id":2,
-      "img": "https://i.postimg.cc/tTWYDBrz/banner.png"
-    },
-    {
-      "id":3,
-      "img": "https://i.postimg.cc/tTWYDBrz/banner.png"
-    },
-    {
-      "id":4,
-      "img": "https://i.postimg.cc/tTWYDBrz/banner.png"
-    },
-    {
-      "id":5,
-      "img":"https://i.postimg.cc/tTWYDBrz/banner.png"
-    },
-    {
-      "id":6,
-      "img":"https://i.postimg.cc/tTWYDBrz/banner.png"
-    },
-    {
-      "id":7,
-      "img":"https://i.postimg.cc/tTWYDBrz/banner.png"
-    }
+	"post": [
+		{
+			"id": 1,
+			"title": "Hello World",
+			"body": "Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+		},
+		{
+			"id": 2,
+			"title": "Eum Et Est Occaecati",
+			"body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
+		}
+	],
+	"tasks": [
+		{
+			"id": 1,
+			"title": "Hello World",
+			"status": false,
+			"description": "This is hello world task",
+			"category": ["personal", "official", "others"],
+			"task_status": ["Todo", "In Progress", "Done"],
+			"subtodo": []
+		}
+	],
+	"products": [
+		{
+			"id": "1",
+			"product_name":"Samsung A4",
+			"stock_available": true,
+			 "quantity": "12",
+			"price": 12000
+		  },
+		  {
+			"id": "2",
+			"product_name":"Moto G1",
+			"stock_available": true,
+			 "quantity": "10",
+			"price": 11000
+		  },
+		  {
+			"id": "3",
+			"product_name":"Samsung A1",
+			"stock_available": false,
+			 "quantity": "9",
+			"price": 15000
+		  },
+		  {
+			"id": "4",
+			"product_name":"MI A1",
+			"stock_available": true,
+			"quantity": "12",
+			"price": 10000
+		  }
+	],
+	"product-card": [
+		{
+			"Mobile": [
+				{
+					"id": 1,
+					"name": "Samsung",
+					"price": "25,000",
+					"img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWkjzHFk1EOe6YbnvkqFeKBp8RbHwK9NpFrjlIY2m-0wHrX4kQzubysZfN3jSKnF5w9xUBrs&usqp=CAc",
+					"description": "12MP Ultra wide (123°) FF + F2.2  Wide (77°) 12MP AF F1.7 Dual Pixel + Tele (45°) 12MP AF F2.4 OIS, 2x Zoom camera | 32MP front facing camera"
+				},
+				{
+					"id": 2,
+					"name": "Motorola",
+					"price": "20,000",
+					"img_src": "data:image/jpeg;base64,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",
+					"description": "15MP Ultra wide (123°) FF + F2.2  Wide (77°) 12MP AF F1.7 Dual Pixel + Tele (45°) 12MP AF F2.4 OIS, 2x Zoom camera | 32MP front facing camera"
+				},
+				{
+					"id": 3,
+					"name": "One Plus 3T",
+					"price": "15,000",
+					"img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA3n4BJ4C5JMxWJRK5LwMTFBXC-84t7Aq0ESVbLm89et8TZocCLu0XQOzpydwyLzxRc4YdMWE&usqp=CAc",
+					"description": "12MP Ultra wide (123°) FF + F2.2  Wide (77°) 12MP AF F1.7 Dual Pixel + Tele (45°) 12MP AF F2.4 OIS, 2x Zoom camera | 32MP front facing camera"
+				},
+				{
+					"id": 4,
+					"name": "Intex",
+					"price": "15,000",
+					"img_src": "data:image/jpeg;base64,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",
+					"description": "12MP Ultra wide (123°) FF + F2.2  Wide (77°) 12MP AF F1.7 Dual Pixel + Tele (45°) 12MP AF F2.4 OIS, 2x Zoom camera | 32MP front facing camera"
+				},
+				{
+					"id": 5,
+					"name": "Xiomi",
+					"price": "35,000",
+					"img_src": "data:image/jpeg;base64,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",
+					"description": "12MP Ultra wide (123°) FF + F2.2  Wide (77°) 12MP AF F1.7 Dual Pixel + Tele (45°) 12MP AF F2.4 OIS, 2x Zoom camera | 32MP front facing camera"
+				}
+			],
+			"Laptops": [
+				{
+					"id": 1,
+					"name": "HP NoteBook s5",
+					"price": "50,000",
+					"desc": "Mi Notebook 14 Intel Core i5-10210U 10th Gen Thin and Light Laptop(8GB/512GB SSD/Windows 10/Nvidia MX250 2GB Graphics/Silver/1.5Kg), XMA1901-DG+Webcam",
+					"img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq8aONuxpjFZ4YkPBGL8WTMAONGgwMH6AgI0TUU7T1ClnRicN9PLhSmbjVkA&usqp=CAc"
+				},
+				{
+					"id": 2,
+					"name": "Lenevo A3",
+					"price": "40,000",
+					"desc": "Mi Notebook 14 Intel Core i5-10210U 10th Gen Thin and Light Laptop(8GB/512GB SSD/Windows 10/Nvidia MX250 2GB Graphics/Silver/1.5Kg), XMA1901-DG+Webcam",
+					"img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq8aONuxpjFZ4YkPBGL8WTMAONGgwMH6AgI0TUU7T1ClnRicN9PLhSmbjVkA&usqp=CAc"
+				},
+				{
+					"id": 3,
+					"name": "Acer Z series",
+					"price": "30,000",
+					"desc": "Mi Notebook 14 Intel Core i5-10210U 10th Gen Thin and Light Laptop(8GB/512GB SSD/Windows 10/Nvidia MX250 2GB Graphics/Silver/1.5Kg), XMA1901-DG+Webcam",
+					"img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFL1k0Qt9gHNprJBtc8FqjMA49a6e2Aby-48MWZNcJn-ZDGnvNV1g_ijhbVhsWDgE_E3OW2w0&usqp=CAc"
+				},
+				{
+					"id": 4,
+					"name": "Mi NoteBook series",
+					"price": "35,000",
+					"desc": "Mi Notebook 14 Intel Core i5-10210U 10th Gen Thin and Light Laptop(8GB/512GB SSD/Windows 10/Nvidia MX250 2GB Graphics/Silver/1.5Kg), XMA1901-DG+Webcam",
+					"img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFL1k0Qt9gHNprJBtc8FqjMA49a6e2Aby-48MWZNcJn-ZDGnvNV1g_ijhbVhsWDgE_E3OW2w0&usqp=CAc"
+				},
+				{
+					"id": 6,
+					"name": "Acer Z series",
+					"price": "30,000",
+					"desc": "Mi Notebook 14 Intel Core i5-10210U 10th Gen Thin and Light Laptop(8GB/512GB SSD/Windows 10/Nvidia MX250 2GB Graphics/Silver/1.5Kg), XMA1901-DG+Webcam",
+					"img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFL1k0Qt9gHNprJBtc8FqjMA49a6e2Aby-48MWZNcJn-ZDGnvNV1g_ijhbVhsWDgE_E3OW2w0&usqp=CAc"
+				}
+			]
+		}
+	],
+	"students": [
+		{
+			"id": 1,
+			"name": "Vishal Kumar",
+			"score": 3,
+			"gender": "Male",
+			"state": "Bihar",
+			"school": "Masai School",
+			"dob": "10 Dec 1998"
+		},
+		{
+			"id": 2,
+			"name": "Uditanshu Kumar",
+			"score": 3,
+			"gender": "Male",
+			"state": "Jharkhand",
+			"school": "Masai School",
+			"dob": "1 Dec 1998"
+		},
+		{
+			"id": 3,
+			"name": "Varsha Kumari",
+			"score": 3,
+			"gender": "Female",
+			"state": "Delhi",
+			"school": "Masai School",
+			"dob": "9 Dec 1998"
+		},
+		{
+			"id": 4,
+			"name": "Nisha Kumari",
+			"score": 2,
+			"gender": "Female",
+			"state": "West Bengal",
+			"school": "Masai School",
+			"dob": "1 Jan 2000"
+		},
+		{
+			"id": 5,
+			"name": "Loyld Dcosta",
+			"score": 3,
+			"gender": "Male",
+			"state": "Kerala",
+			"school": "Masai School",
+			"dob": "9 Dec 1990"
+		},
+		{
+			"id": 6,
+			"name": "Aman Vats",
+			"score": 3,
+			"gender": "Male",
+			"state": "Bihar",
+			"school": "Masai School",
+			"dob": "1 Nov 1995"
+		},
+		{
+			"id": 7,
+			"name": "Ankush",
+			"score": 3,
+			"gender": "Male",
+			"state": "Madhya Pradesh",
+			"school": "Masai School",
+			"dob": "1 Dec 1998"
+		},
+		{
+			"id": 8,
+			"name": "Varsha Kumari",
+			"score": 3,
+			"gender": "Female",
+			"state": "Delhi",
+			"school": "Masai School",
+			"dob": "9 Dec 1998"
+		},
+		{
+			"id": 9,
+			"name": "Varsha Kumari",
+			"score": 3,
+			"gender": "Female",
+			"state": "Delhi",
+			"school": "Masai School",
+			"dob": "9 Dec 1998"
+		},
+		{
+			"id": 10,
+			"name": "Varsha Kumari",
+			"score": 3,
+			"gender": "Female",
+			"state": "Delhi",
+			"school": "Masai School",
+			"dob": "9 Dec 1998"
+		}
+	],
+	"indian_tech_news": [
+		{
+			"id": "1",
+			"headline": "Samsung Galaxy M12 is a #MonsterReloaded with 6000mAh batter ..",
+			"image_link": "https://static.toiimg.com/thumb/msid-81286566,width-640,resizemode-4/81286566.jpg",
+			"description": "How to make good smartphones great? Samsung knows best - take an amazing phone and reload it with the latest, avant-garde features. Samsung Galaxy M12 is the season 2 of the original monster - it has the best features of its parent M series and brings in some newest, segment leading specs under an unbelievable price range. It is a #MonsterReloaded Combining a pair of dependable processing units, the Exynos processor delivers capable mobile computing and gaming on this smartphone. incorporates innovative power efficiency measures that enable users to make use of mobile features for longer. Designed with advanced 8nm FinFET processing technology, the processor offers noticeably better power efficiency than processors built on legacy processes..",
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 71,
+			"date": "2010-01-28"
+		},
+		{
+			"id": "2",
+			"headline": "Apple does not want anyone to use Android phone: WhatsApp CE ..",
+			"image_link": "https://static.toiimg.com/thumb/msid-81459787,width-640,resizemode-4,imgsize-35454/81459787.jpg",
+			"description": "Facebook and Apple's war has been on for quite sometime now.as well as Facebook CEO Mark Zuckerberg have openly criticised each others' companies, no holds barred. The latest from Facebook camp to slam Apple is Will Cathcart. Speaking on the 'Big Technology Podcast', Cathcart didn't have good words for the iPhone maker.Cathart said that Apple's privacy labels are discriminatory and that the company is in fact not in favour of people using Android phones. I assume it’s in Apple’s interest to have everyone using an iPhone, I mean, obviously, it is. And you look at a place like the U.S., most people have an iPhone, and the messaging experience works better on iMessage if everyone else has an iPhone, said Cathart. It’s certainly in their strategic interest that people not use something like WhatsApp because they want people to not use an ",
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 171,
+			"date": "2010-11-08"
+		},
+		{
+			"id": "3",
+			"headline": "How Google can help you find reliable information about Covi ..",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81412918,imgsize-21913,width-400/81412918.jpg",
+			"description": "Google rolls out Full Coverage feature in Google Search, here’s & Family Welfare (MoHFW) and the Bill & Melinda Gates Foundation to disseminate science-based narrative around vaccination drive.",
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 11,
+			"date": "2010-09-28"
+		},
+		{
+			"id": "4",
+			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411409,imgsize-39655,width-400/81411409.jpg",
+			"description": "Amazon is giving up to 52% off on Motorola smartphones",
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 101,
+			"date": "2020-01-28"
+		},
+		{
+			"id": "5",
+			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81393664,imgsize-14172,width-400/81393664.jpg",
+			"description": "Amazon is offering up to $140 discount on Apple iMac",
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 117,
+			"date": "2019-01-28"
+		}
+		
+	],	
+	"us_tech_news": [
+		{
+			"id": "1",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81306044,imgsize-18898,width-400/81306044.jpg",
+			"description": "5 reasons to have LG dishwasher in your kitchen",
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 71,
+			"date": "2010-01-28"
+		},
+		{
+			"id": "2",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81405733,imgsize-3164415,width-400/81405733.jpg",
+			"description": "Oppo F19 Pro+ 5G launched at Rs 25,990: All details",
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 91,
+			"date": "2020-01-18"
+		},
+		{
+			"id": "3",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81408763,imgsize-240998,width-400/81408763.jpg",
+			"description": "What makes Galaxy M12 a #MosnterReloaded?",
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 51,
+			"date": "2010-11-28"
+		},
+		{
+			"id": "4",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81404255,imgsize-37422,width-400/81404255.jpg",
+			"description": "OnePlus 9 to launch on March 23: Likely specifications, free...",
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 111,
+			"date": "2011-11-28"
+		},
+		{
+			"id": "5",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81413165,imgsize-468082,width-400/81413165.jpg",
+			"description": "Reliance Jio launches affordable digital plans for small businesses",
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 1111,
+			"date": "2021-11-28"
+		}
+	],
 
-  ]
-    
-  
+	"international_business_news":[
+		{
+			"id": "1",
+			"headline": "Elon Musk adds $25 billion in one day as tech rally boosts fortunes",					
+			"description": "NEW DELHI:just hit a new milestone: He made a record $25 billion in one day. Tesla Inc’s 20% jump on Tuesday -- its biggest in more than a year -- pushed the billionaire founder’s fortune to $174 billion, closing the gap with the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.nc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high",
+			"image_link": "https://static.toiimg.com/thumb/msid-81471142,imgsize-99446,width-400,resizemode-4/81471142.jpg",
+			"subcategory": ["economy"],
+			"readerCount": 17,
+			"date": "2010-01-28"
+		},
+		{
+			"id": "2",
+			"headline": "China's Ant Group CEO Hu quits amid regulatory-driven revamp",
+			"description": "NEW DELHI: chief executive officer Simon Hu has resigned from his role, the company said on Friday, as the financial technology giant is being pushed by regulators to overhaul its business after its failed $37 billion initial public offering. <br/>Hu, who was named chief executive of the Alibaba Group Holding affiliate in 2019, will be replaced by company veteran and Executive Chairman Eric Jing, Ant said. Jing told Ant employees that the company would review its staff incentive programmes and roll out some measures starting from April to help solve their financial problems, according to two people who have seen the messages.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81470871,imgsize-86898,width-400,resizemode-4/81470871.jpg",
+			"subcategory": ["finance" ,"others"],
+			"readerCount": 11,
+			"date": "2010-01-28"
+		},
+		{
+			"id": "3",
+			"headline": "Tencent faces broad China clampdown on fintech, deals",
+			"description": "BENGALURU: Holdings Ltd has been put on notice. Asia’s largest conglomerate was censured by China’s antitrust watchdog on Friday as Beijing expands a crackdown that began with Jack Ma’s online empire.<br/>The two firms will set a precedent for other fintech players on complying with tougher regulations, the people added. Such a move would mark a significant escalation in China’s campaign to curb the influence of its technology moguls, days after Premier Li Keqiang pledged at the National People’s Congress to expand oversight of financial technology, stamp out monopolies, and prevent the “unregulated” expansion of capital We will continue to adapt to changes in the regulatory environment, which we view as beneficial to the industry, and will seek to ensure full compliance,” Tencent said in an emailed statement following the fine by the antitrust watchdog. The company declined to comment on financial regulatory matters. to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81466185,imgsize-188513,width-400,resizemode-4/81466185.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 10,
+			"date": "2010-11-28"
+		},
+		{
+			"id": "4",
+			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 18,
+			"date": "2010-01-18"
+		},
+		{
+			"id": "5",
+			"headline": "Trai suspends new text message norms",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 17,
+			"date": "2011-01-28"
+		},
+		{
+			"id": "6",
+			"headline": "UAE makes it to top 10 list of corporate tax havens",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 12,
+			"date": "2010-01-08"
+		},
+
+		{
+			"id": "7",
+			"headline": "Now hiring: ‘Temp CXOs’ for India Inc",
+			"description": "NEW DELHI: A mid-sized manufacturing company wanted to consolidate its business by shutting down one of its factories. But it didn’t have a person in a senior leadership position who could handle the various aspects of a closure, including labour and compliance issues.<br/>Hunting for a full-time top exec would have cost the, and money. It, therefore, roped in a ‘temp CEO’, who not only finished the job in about nine months but also found a buyer for the unit.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81441867,imgsize-45995,width-400,resizemode-4/81441867.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 10,
+			"date": "2019-01-28"
+		},
+		{
+			"id": "8",
+			"headline": "Govt seeks to firewall telecom infra from Chinese threat",
+			"description": "NEW DELHI: In a move that will restrict the business of top Chinese vendors such as. But it didn’t have a person in a senior leadership position who could handle the various aspects of a closure, including labour and compliance issues.<br/>Hunting for a full-time top exec would have cost the, and money. It, therefore, roped in a ‘temp CEO’, who not only finished the job in about nine months but also found a buyer for the unit.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81439919,imgsize-669309,width-400,resizemode-4/81439919.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 11,
+			"date": "2020-01-28"
+		},
+		{
+			"id": "9",
+			"headline": "Indospace takes 55 acres in Haryana from RIL for warehouse",
+			"description": "NEW DELHI: In a move that will restrict the business of top Chinese vendors such as. But it didn’t have a person in a senior leadership position who could handle the various aspects of a closure, including labour and compliance issues.<br/>Hunting for a full-time top exec would have cost the, and money. It, therefore, roped in a ‘temp CEO’, who not only finished the job in about nine months but also found a buyer for the unit.",
+			"image_link": "https://static.toiimg.com/thumb/msid-47529300,imgsize-110164,width-400,resizemode-4/47529300.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 121,
+			"date": "2010-11-18"
+		},
+		{
+			"id": "10",
+			"headline": "US economy contracts in 2020; worst performance since 1946",
+			"description": "US economy contracted at its sharpest pace since World War two in 2020 as Covid-19 ravaged services businesses like restaurants and airlines, throwing millions of Americans out of work and into poverty. <br/>The commerce department&#x27;s snapshot of fourth-quarter gross domestic product on Thursday also showed the recovery from the pandemic losing steam as the year wound down amid a resurgence in coronavirus infections and exhaustion of nearly $3 trillion in relief money from the government. <br/>The Federal Reserve on Wednesday left its benchmark overnight interest rate near zero and pledged to continue injecting money into the economy through bond purchases, noting that &quot;the pace of the recovery in economic activity and employment has moderated in recent months.&quot; <br/>President Joe Biden has unveiled a recovery plan worth $1.9 trillion, and could use the GDP report to lean on some lawmakers who have balked at the price tag soon after the government provided nearly $900 billion in additional stimulus at the end of December. <br/>The economy contracted 3.5% in 2020, the worst performance since 1946. That followed 2.2% growth in 2019 and was the first annual decline in GDP since the 2007-09 Great Recession. The economy plunged into recession last February <br/>In the fourth quarter, GDP increased at a 4% annualized rate as the virus and lack of another spending package curtailed consumer spending, and partially overshadowed robust manufacturing and the housing market. GDP growth for the last quarter was in line with forecasts in a Reuters poll of economists. <br/>The big step-back after a historic 33.4% growth pace in the July-September period left GDP well below its level at the end of 2019. With the virus not yet under control, economists are expecting growth to further slow down in the first quarter of 2021, before regaining speed by summer as the additional stimulus kicks in and more Americans get vaccinated. <br/>The services sector has borne the brunt of the coronavirus recession, disproportionately impacting lower-wage earners, who tend to be women and minorities. That has led to a so-called K-shaped recovery, where better-paid workers are doing well while lower-paid workers are losing out. <br/>The stars of the recovery have been the housing market and manufacturing as those who are still employed seek larger homes away from city centers, and buy electronics for home offices and schooling. Manufacturing&#x27;s share of GDP has increased to 11.9% from 11.6% at the end of 2019. <br/>A survey last week by professors at the University of Chicago and the University of Notre Dame showed poverty increased by 2.4 percentage points to 11.8% in the second half of 2020, boosting the ranks of the poor by 8.1 million people. <br/>Rising poverty was underscored by persistent labor market weakness. In a separate report on Thursday, the Labor Department said 847,000 more people filed new claims for state unemployment benefits last week. <br/>The economy shed jobs in December for the first time in eight months. Only 12.4 million of the 22.2 million jobs lost in March and April have been recovered.",
+			"image_link": "https://static.toiimg.com/thumb/msid-80512458,imgsize-138607,width-400,resizemode-4/80512458.jpg",
+			"subcategory": [
+			 "international business",
+			  "economy"
+			],
+			"date": "2021-02-17",
+			"readerCount": 275
+		  },
+		
+		 {
+			"id": "11",
+			"headline": "China GDP grows 2.3% in 2020, slowest in more than four decades",
+			"description": "BEIJING: China&#x27;s economy grew at the slowest pace in more than four decades last year despite a rebound after the country&#x27;s coronavirus outbreak, official data showed Monday. <br/>The 2.3 per cent expansion is the lowest figure since the Chinese economy embarked on major reforms in the 1970s. <br/>The National Bureau of Statistics warned of a &quot;grave and complex environment both at home and abroad&quot;, with the pandemic having a &quot;huge impact&quot;. <br/>However, the 2.3 per cent growth in 2020 made China the only major economy in the world to avoid a contraction last year as many nations struggled to contain the Covid-19 pandemic. <br/>The world&#x27;s second-largest economy staged a strong comeback last year from the coronavirus-triggered paralysis, fuelled by a surprisingly resilient export sector, but consumption - a key driver of growth - has been lagging expectations amid fears of a resurgence of Covid-19 cases. <br/>The slew of bright economic data has reduced the need for more monetary easing this year, leading the central bank to scale back some policy support, sources told Reuters, but there would be no abrupt shift in policy direction, according to top policymakers. <br/>On a quarter-on-quarter basis, GDP rose 2.6 per cent in October-December, the bureau said, compared with expectations for a 3.2 per cent rise and a revised 3 per cent gain in the previous quarter. <br/>On year-on-year basis, China&#x27;s economy expanded 6.5 per cent.",
+			"image_link": "https://static.toiimg.com/thumb/msid-80321040,imgsize-56176,width-400,resizemode-4/80321040.jpg",
+			"subcategory": [
+		 "international business",
+			  "economy"
+			],
+			"date": "2020-12-20",
+			"readerCount": 300
+		  },
+		
+		 {
+			"id": "12",
+			"headline": "Google now has two workers unions, but why it may be 'bad news'",
+			"description": "Soon after the <!-- -->Alphabet<!-- --> Workers Union (AWU) was formed by <!-- -->Google<!-- --> employees in the US another union got formed called Alpha Global. While AWU is just for Google employees in the US, <!-- -->Alpha Global<!-- --> is formed by employees from across 13 regions in 10 countries which includes the United Kingdom, Switzerland and the United States. The objective of both the union seems to be simple: prevent Google from being evil, but if only they can co-exist. <br/>As per a report by <span class='em'>The Verge</span>, the AWU had no clue about an <!-- -->international union<!-- --> called Alpha Global being formed. In fact, some members of the AWU only got to know about the international union after <span class='em'>The Verge</span> posted a news article about the same. The surprise appearance of another union, which is spread across multiple countries, is not something that is going well with the members of AWU and as the report claimed that it was an “unwelcome surprise”. <br/>The report by <span class='em'>The Verge</span> said, “AWU organizers are considering pushing the group to disaffiliate from the Communications Workers of America (CWA), a national union representing workers in telecommunications and media.” <br/>Members of the AWU now feel they are a minority in this fight which they claim to have started first. The report added, “AWU isn’t recognized by the National Labor Relations Board (NLRB) and can’t require Alphabet or its subsidiaries like Google to negotiate a contract for its members.” It’s prowess can only be derived by adding more members and opting for “public pressure campaigns”. <br/>As for the new international union, it is affiliated with the UNI Global Union-- a major federation of labor unions. Other than the United States, United Kingdom, Switzerland; the alliance includes unions from Italy, Ireland, Germany, Denmark, Finland, Sweden and Belgium. <br/>Having said that the union has no legally binding agreement with Google, at least for now. But yes, it does plan to pressure Google to sign a neutrality agreement moving forward.",
+			"image_link": "https://static.toiimg.com/thumb/msid-80627988,imgsize-86242,width-400,resizemode-4/80627988.jpg",
+			"subcategory": [
+			  "international business",
+			  "finance",
+			  "others"
+			],
+			"date":"2021-03-13",
+			"readerCount": 420
+		  },
+		
+		{
+			"id": "13",
+			"headline": "Global markets rocket higher on vaccine news, US election.",
+			"description": "TOKYO: Stock markets rocketed higher on Monday after Pfizer said early data show its coronavirus vaccine is effective and investors breathed a sigh of relief after days of US presidential limbo ended with Democrat Joe Biden declared the president-elect. <br/>Markets were already sharply higher on the <a href='https://timesofindia.indiatimes.com/world/us/us-presidential-elections' styleObj='[object Object]' class='' data-ga='within_article-topic_link|topic_https://timesofindia.indiatimes.com/world/us/us-presidential-elections' frmappuse='1'>US election</a> result when Pfizer said that data shows vaccine shots may be 90% effective at preventing Covid-19, indicating the company is on track this month to file an emergency use application with US regulators. <br/>Any economic recovery depends on checking the pandemic, and investors pounced upon the news. Pfizer&#x27;s data is only preliminary and does not mean a vaccine is imminent. Getting the vaccine to billions of people will be a massive undertaking, even if it is approved. <br/>Dow futures jumped 4.2% higher while those for the S&amp;P 500 rose 3.1%. <br/>In Europe, France&#x27;s CAC 40 jumped 5.6% to 5,239, while Germany&#x27;s DAX surged 5.1% to 13,112. Britain&#x27;s FTSE 100 gained 4% to 6,145. <br/>Markets were already buoyant about the result of the US elections, which saw Biden win the presidency. <br/>&quot;This means less uncertainty, less turmoil in terms of foreign relations, and reversal of some futile policies which were put by the Trump administration,&quot; Naeem Aslam, chief market analyst at Ava Trade, said in a commentary. <br/>Many analysts expect trade tensions to de-escalate under a Biden presidency. Still, not all trade tensions are expected to vanish even if Biden rolls back some of the tariffs imposed by President Donald Trump on US trading partners, especially China, in the past several years. <br/>The European Union pressed ahead Monday with plans to impose tariffs and other penalties on up to $4 billion worth of US goods and services over illegal American support for plane maker Boeing. That followed a World Trade Organization ruling in the US&#x27;s favor over EU support for Airbus. <br/>In Asian trading, Japan&#x27;s Nikkei 225 surged 2.1% to finish at 24,839.84. Australia&#x27;s S&amp;P/ASX 200 added 1.8% to 6,298.80. South Korea&#x27;s Kospi advanced 1.3% to 2,447.20. Hong Kong&#x27;s Hang Seng rose 1.2% to 26,016.17, while the Shanghai Composite gained 1.9% to 3,373.73. <br/>For now, investors seem inclined to shrug off Trump&#x27;s refusal to concede and threats of legal action. With Republicans expected to retain their grip on a majority in the Senate, they are betting on continuity in tax, regulatory and other policies, analysts said. <br/>&quot;Trump not conceding a loss is near-term noise looking to wrong-foot Biden at the start of his presidency while Republicans in a position to not concede ground on legislation may continue to frustrate Biden&#x27;s agenda,&quot; Mizuho Bank said in a commentary. <br/>If Republicans remain in charge of the Senate, chances for a big package of economic aid are weaker, and the Federal Reserve will likely need to step up with more support, said Jeffrey Halley of Oanda. <br/>&quot;More easing is almost certainly on the way at December&#x27;s FOMC meeting,&quot; Halley said, referring to the Fed&#x27;s policy making committee. &quot;Looser monetary policy equals higher asset prices in a zero percent interest rate world.&quot; <br/>Despite rising infections and deaths from the pandemic, economies have continued to recover from the shocks of earlier shutdowns to combat outbreaks. <br/>Customs data released on Saturday showed China&#x27;s export growth accelerated in October, boosting the total so far this year back above pre-coronavirus levels for the first time. Exports in October rose 11.4% over a year earlier to $237.2 billion, up from September&#x27;s 9.9% gain, while imports rose 4.7% by value to $178.7 billion, decelerating from the previous month&#x27;s 13.2% surge. <br/>Biden has vowed to move decisively to try to counter the worsening coronavirus pandemic, which has sapped economic growth, trade and travel, as the US and Europe face a troubling rise in infections. Even if the strictest lockdowns don&#x27;t return in the United States, the worsening pandemic may dampen consumption and erase profits. <br/>In energy trading, US benchmark crude gained $3.16 to $40.30 a barrel in electronic trading on the New York Mercantile Exchange. Brent crude, the international standard, rose $3.08 to $42.53 a barrel. <br/>The dollar rose to 104.38 Japanese yen from 103.35 yen late Friday. The euro cost $1.1889, up from $1.1875. ",
+			"image_link": "https://static.toiimg.com/thumb/msid-79131117,imgsize-241071,width-400,resizemode-4/79131117.jpg",
+			"subcategory": [
+			   "international business",
+			  "finance",
+			  "others"
+			],
+			"date": "2021-03-12",
+			"readerCount": 152
+		  }
+	],
+	"general_business_news":[
+		{
+			"id": "1",
+			"headline": "'Top 100 brands will lose $223 billion in brand value from data breach'",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2017-01-02",
+			"readerCount": 9
+		},
+		{
+			"id": "2",
+			"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2017-01-01",
+			"readerCount": 0
+		},
+		{
+			"id": "3",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2018-02-02",
+			"readerCount": 1
+		},
+		{
+			"id": "4",
+			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2017-11-11",
+			"readerCount": 2
+		},
+		{
+			"id": "5",
+			"headline": "Trai suspends new text message norms",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-11-03",
+			"readerCount": 3
+		},
+		{
+			"id": "6",
+			"headline": "UAE makes it to top 10 list of corporate tax havens",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2020-01-02",
+			"readerCount": 4
+		},
+		{
+			"id": "7",
+			"headline": "'Top 100 brands will lose $223 billion in brand value from data breach'",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": [
+			  "economy",
+			  "finance",
+			  "others"
+			],
+			"date": "2017-01-02",
+			"readerCount": 120
+		  },
+		  {
+			"id": "8",
+			"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": [
+			  "economy",
+			  "finance",
+			  "others"
+			],
+			"date": "2017-01-01",
+			"readerCount": 0
+		  },
+		  {
+			"id": "9",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": [
+			  "economy",
+			  "finance",
+			  "others"
+			],
+			"date": "2018-02-02",
+			"readerCount": 1
+		  },
+		  {
+			"id": "10",
+			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": [
+			  "economy",
+			  "finance",
+			  "others"
+			],
+			"date": "2017-11-11",
+			"readerCount": 2
+		  },
+		  {
+			"id": "11",
+			"headline": "Trai suspends new text message norms",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": [
+			  "economy",
+			  "finance",
+			  "others"
+			],
+			"date": "2019-11-03",
+			"readerCount": 3
+		  },
+		  {
+			"id": "12",
+			"headline": "UAE makes it to top 10 list of corporate tax havens",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": [
+			  "economy",
+			  "finance",
+			  "others"
+			],
+			"date": "2020-01-02",
+			"readerCount": 4
+		  },
+		  {
+			"id": "13",
+			"headline": "Kalyan Jewellers IPO price fixed in Rs 86-87 range",
+			"description": "Warburg Pincus-backed <!-- -->Kalyan Jewellers<!-- --> has fixed a price band of Rs 86 to Rs 87 per equity share for its initial public offer (IPO), which will open for subscription on March 16. The <!-- -->IPO<!-- -->, which constitutes 13% of Kalyan’s fully diluted equity, values the retail jeweller at Rs 8,961 crore at the higher end of the price band. <br/>The offer, a combination of fresh issue of shares and a partial sale of shares by founder T S Kalyanaraman and investor Warburg, will close on March 18. Kalyan, the latest to join the primary market rush that has continued into this calendar year, plans to raise Rs 1,175 crore from the IPO. It had initially planned to pool Rs 1,750 crore from public investors, but reduced its IPO size due to unfavourable market conditions. <br/>Kalyan’s will be the biggest IPO from the consumer retail segment after D-Mart’s Rs 1,870-crore issue in 2017. The jeweller, which started its operations in <!-- -->Thrissur<!-- -->, <!-- -->Kerala<!-- -->, in 1993, plans to use the proceeds from the IPO for working capital requirements, debt reduction and other corporate purposes. <!-- -->Kalyan<!-- --> had a debt of Rs 3,667 crore as on December 30, 2020.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81462651,imgsize-98600,width-400,resizemode-4/81462651.jpg",
+			"subcategory": [
+			  "economy",
+			  "finance",
+			  "others"
+			],
+			"date": "2021-03-12",
+			"readerCount": 174
+		  },
+		  {
+			"id": "14",
+			"headline": "Sensex jumps over 500 points; Nifty above 15,300",
+			"description": "NEW DELHI: Equity indices jumped on Friday with the benchmark <!-- -->BSE sensex<!-- --> rising over 500 points in early trade led by gains in banking, financial and metal stocks. The broader <!-- -->NSE Nifty<!-- --> traded above the 15,300-mark in the opening deals. <br/>Top gainers in the BSE pack included L&amp;T, ONGC, NTPC, HDFC twins (HDFC and HDFC Bank), ICICI Bank, Axis Bank and SBI with their stocks rising as much as 2.61 per cent. <br/>On the NSE platform, except for Nifty Pharma and Nifty FMCG, all other sub-indices were trading in green with Nifty Metal up as much as 1.40 per cent. <br/>Both the BSE and NSE indices were closed on Thursday on account of Mahashivratri. <br/>On Wednesday, sensex had closed 254 points or 0.5 per cent higher at 51,280; while Nifty ticked up by 76 points or 0.51 per cent to settle at 15,175. <br/>On the global front, Asian shares pushed higher on Friday after US President Joe Biden signed a $1.9 trillion stimulus bill into law, and as a retreat in bond yields overnight eased global concerns about rising inflation. <br/>The signing of the American Rescue Plan provided a further boost to market sentiment after the European Central Bank said it was ready to accelerate money-printing to keep a lid on borrowing costs. <br/>According to V K Vijayakumar, chief investment strategist at Geojit Financial Services, the &#x27;risk on&#x27; in global equity markets got another push with the passage of a massive fiscal stimulus. <br/>US equities ended with strong gains in overnight trade. <br/>Meanwhile, Foreign institutional investors (FIIs) were net sellers in the India&#x27;s market as they sold shares worth Rs 15.69 crore on Wednesday, as per exchange data.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81460401,imgsize-100596,width-400,resizemode-4/81460401.jpg",
+			"subcategory": [
+			  "economy",
+			  "finance",
+			  "others"
+			],
+			"date": "2021-03-13",
+			"readerCount": 191
+		  }
+	],
+	"indian_business_news":[
+		{
+			"id": "1",
+			"headline": "Retail inflation probably rose in February: Poll",					
+			"description": "NEW DELHI:probabaly rose in February as food and fuel prices went up remained within the Reserve Bank of India's target range for a third straight month, a Reuters poll predicted.As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.nc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423717,imgsize-93670,width-400,resizemode-4/81423717.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-06-28",
+			"readerCount": 32
+		},
+		{
+			"id": "2",
+			"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2018-06-28",
+			"readerCount": 24
+		},
+		{
+			"id": "3",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2020-06-28",
+			"readerCount": 22
+		},
+		{
+			"id": "4",
+			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2011-06-21",
+			"readerCount": 30
+		},
+		{
+			"id": "5",
+			"headline": "Trai suspends new text message norms",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-06-18",
+			"readerCount": 121
+		},
+		{
+			"id": "6",
+			"headline": "UAE makes it to top 10 list of corporate tax havens",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-04-28",
+			"readerCount": 101
+		},
+		{
+			"id": "8",
+			"headline": "India's FY22 double-digit growth target highly ambitious",
+			"description": "NEW DELHI: The <!-- -->Indian economy<!-- --> looking to register strong double-digit growth in FY22 to recover quickly from the current bout of Covid-19-induced slowdown, may have set itself an ambitious target that would be hard to achieve given the continuing weak debt growth indicating that the uptick in economic activity remains subdued. <br/>According to a brokerage report, the debt growth in non-government non-financial (NGNF) sector, meaning household and corporate sectors, remains tepid indicating weaker economic activity. The NGNF debt grew just 5.0 per cent YoY in 3QFY21 - only marginally better than the record low growth of 4.6 per cent in 2QFY21. <br/>Within the NGNF sector, household debt grew at a decent 9.6 per cent YoY in 3QFY21 (v/s 8.7% in the previous quarter) but non-financial corporate (NFC) debt grew mere 2.0 per cent YoY, similar to 2QFY21 levels as corporates still remained sceptical about the overall economic situation and rekey at t to commit more investments at this juncture. <br/>&quot;Such weak debt growth confirms the uptick in economic activity remains subdued. Coupled with our argument that COVID-19 may adversely impact India&#x27;s household income, this implies that a strong recovery looks highly ambitious,&quot; Motilal Oswal Financial Services said in its EcoScope report. <br/>During the time of the pandemic, it is the government that has borrowed the maximum to provide stimulus to the <!-- -->economy<!-- --> in the absence of private corporate investment. So against India&#x27;s non-financial sector (NFS) debt growth of 10.3 per cent YoY in 3QFY21 (the highest growth in six quarters), it the government (Center + states) debt that grew at a decade high of 16.3 per cent YoY and not the household and corporate sector. <br/>So, while India&#x27;s NFS debt stood at Rs 338 lakh crore in 3QFY21, up from Rs 314 lakh crore in 4QFY20 and Rs 330 lakh crore in 2QFY21, the 85 per cent increase in NFS debt in FY21 is attributable to the government sector as the corporate sector grew only marginally and households saw decent, but slower, growth in their outstanding debt.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81407986,imgsize-68338,width-400,resizemode-4/81407986.jpg",
+			"subcategory": [
+			  "india business",
+			  "economy",
+			  "finance",
+			  "others"
+			],
+			"date": "2019-07-07",
+			"readerCount": 306
+		  },
+		
+		{
+			"id": "9",
+			"headline": "India’s creative economy battered by Covid: Survey",
+			"description": "India’s rich developed around sectors like advertising, architecture, arts and culture festivals, crafts, design and fashion, literature and publishing, museums, heritage and public monuments has taken one of the worst hits during the Covid pandemic. <br/>Responses from professionals, artists and artisans to a survey carried out to understand the economic state and sentiment of the creative sector workforce highlights how vulnerable they have become following the lockdown. <br/>The survey was the second to be conducted by British Council, business chamber Ficci and Art X Company since the lockdown. <br/>More than two-third of the respondents said they were uncertain on whether they would be able to survive beyond a year with current resources and funding. Individuals professionals and artisans are facing short-term hand-to-mouth existence though sectors are adapting to digital and live business models to stay afloat. <br/>Nine out of 10 respondents said they feared long-term impact of social distancing in the creative sector, resulting in a decline in audiences and earnings. The contraction is such that respondents felt nearly a sixth of the creative sectors were facing permanent closure to avoid bankruptcy. <br/>Queries for the survey were sent to 4,500 individuals and organisations on the British Council database, and through outreach partners. The link was live from September 1 to October 15, 2020 and 456 responses were received. <br/>In view of the findings and the feedback from creative industry, the report has recommended collaborative emergency action through investments by governments and corporates and strengthening of the creative economy by recognizing the cultural and creative sector as an integral part of the social and economic recovery plan, among other things. <br/>“While the first report helped to understand the immediate impact of Covid-19 on the creative economy; the second report reveals the diminished economic conditions that creative organisations and artists are now faced with,” said British Council director (Arts India) Jonathan Kennedy.",
+			"image_link": "https://static.toiimg.com/thumb/msid-79934475,imgsize-107203,width-400,resizemode-4/79934475.jpg",
+			"subcategory": [
+			   "india business",
+			  "economy",
+			"others"
+			],
+		   "date": "2021-01-06",
+			"readerCount": 90
+		  },
+		
+		{
+			"id": "10",
+			"headline": "Boost for self-redevelopment: Societies can now take housing finance loans",
+			"description": "MUMBAI: In a major boost to self-redevelopment of cooperative housing societies, the <!-- -->Reserve Bank of India<!-- --> (RBI) has included them in the list of allowed borrowers for housing finance loan. <br/>This is for the first time that cooperative housing societies have been allowed to borrow from housing finance companies (HFCs). Earlier, societies in Mumbai could obtain loan for self-redevelopment only from the Mumbai District Co-operative Bank. <br/><div class='vxVV2 _3LJv_'><div class='3i5B2'>TimesView<p>Scarcity of open land means that Mumbai can now develop only through redevelopment. The current template of developer-led redevelopment is a failure, often not delivering the promised homes, and definitely not in the volumes required. Self-redevelopment appears to be the panacea. The authorities must tweak the financial ecosystems to align to this new reality.</p><small></small></div></div><br/>In a master direction issued last month the RBI said, “Housing finance shall mean financing for purchase/construction/reconstruction/renovati-on/repairs of residential dwelling units which includes loans to individuals or group of individuals including co-operative societies for construction/purchase of new dwelling unit.” <br/>Activist Chandrashekhar Prabhu said it is good news as it would encourage more societies to take up self-redevelopment. “There are 150 HFCs registered with the RBI many of whom have loaned to builders who have defaulted and these companies have lost money. It would be safer for them to lend to housing societies. HFCs can take money from National Housing Bank and disburse this to housing societies,” he said. <br/>Prabhu said that he would urge the RBI to further allow nationalised and private banks to lend directly to cooperative societies for self-redevelopment. “Today, no rule stops banks from loaning to housing societies, but the problem is that in case of default who will be responsible. The government seems apprehensive about these societies when they are the safest to lend to as they are middle-class people and will not default,” he added. <br/>But Salil Rameshchandra, president, Federation of Grantees of Government Land, said the RBI needs to do more. “Many societies are in need of redevelopment, as their plot size is small, no builder is interested. The RBI must prepare guidelines on how non-banking finance companies (NBFC), HFCs and all banks can provide support to such societies.” <br/>On the likelihood of societies defaulting on repayment, Rameschandra said it is very unlikely as residents would be the biggest losers if they do not redevelop in time. “The norms for housing societies need to be more relaxed than what they are for builders. The RBI needs to look at the changing housing scenario and make guidelines accordingly,” he suggested.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81457002,imgsize-82701,width-400,resizemode-4/81457002.jpg",
+			"subcategory": [
+			  "india business",
+			  "finance",
+			  "others"
+			],
+			"date": "2020-04-18",
+			"readerCount": 182
+		  },
+			{
+			"id": "11",
+			"headline": "Home First Finance Company shares list with over 19% premium.",
+			"description": "NEW DELHI: Shares of <!-- -->Home First Finance Company<!-- --> India on Wednesday listed with a premium of more than 19 per cent against its issue price of Rs 518 apiece. <br/>The stock got listed at Rs 612.15, a gain of 18.17 per cent from the issue price on the BSE. Later, it jumped 23.45 per cent to Rs 639.50. <br/>On the NSE, it got listed at Rs 618.80, reflecting a jump of 19.45 per cent. <br/>The company&#x27;s market valuation was at Rs 5,243.64 crore on the BSE. <br/>The initial public offer of <!-- -->Home First Finance<!-- --> Company India was subscribed 26.66 times last month. <br/>The price range for the Rs 1,153.71-crore offer of the housing finance company was at Rs 517-518 per share.",
+			"image_link": "https://static.toiimg.com/thumb/msid-80663849,imgsize-263492,width-400,resizemode-4/80663849.jpg",
+			"subcategory": [
+			  "india business",
+			  "finance",
+			  "others"
+			],
+			"date": "2021-03-13",
+			"readerCount": 90
+		  }		
+	],
+	"all_news":[
+		{
+			"id": "1",
+			"headline": "Retail inflation probably rose in February: Poll",					
+			"description": "NEW DELHI:probabaly rose in February as food and fuel prices went up remained within the Reserve Bank of India's target range for a third straight month, a Reuters poll predicted.As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.nc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423717,imgsize-93670,width-400,resizemode-4/81423717.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-06-28",
+			"readerCount": 31
+		},
+		{
+			"id": "2",
+			"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2018-06-28",
+			"readerCount": 41
+		},
+		{
+			"id": "3",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2020-06-28",
+			"readerCount": 211
+		},
+		{
+			"id": "4",
+			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2011-06-21",
+			"readerCount": 310
+		},
+		{
+			"id": "5",
+			"headline": "Trai suspends new text message norms",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-06-18",
+			"readerCount": 111
+		},
+		{
+			"id": "6",
+			"headline": "UAE makes it to top 10 list of corporate tax havens",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-04-28",
+			"readerCount": 101
+		},
+		{
+			"id": "7",
+			"headline": "'Top 100 brands will lose $223 billion in brand value from data breach'",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-06-8",
+			"readerCount": 19
+		},
+		{
+			"id": "8",
+			"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2010-01-28",
+			"readerCount": 14
+		},
+		{
+			"id": "9",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2017-06-28",
+			"readerCount": 111
+		},
+		{
+			"id": "10",
+			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-11-21",
+			"readerCount": 61
+		},
+		{
+			"id": "11",
+			"headline": "Trai suspends new text message norms",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-09-8",
+			"readerCount":113
+		},
+		{
+			"id": "12",
+			"headline": "UAE makes it to top 10 list of corporate tax havens",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-01-2",
+			"readerCount": 110
+		},
+		{
+			"id": "13",
+			"headline": "Retail inflation probably rose in February: Poll",					
+			"description": "NEW DELHI:probabaly rose in February as food and fuel prices went up remained within the Reserve Bank of India's target range for a third straight month, a Reuters poll predicted.As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.nc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423717,imgsize-93670,width-400,resizemode-4/81423717.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2021-01-2",
+			"readerCount": 31
+		},
+		{
+			"id": "14",
+			"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2012-11-28",
+			"readerCount": 81
+		},
+		{
+			"id": "15",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-12-18",
+			"readerCount": 31
+		},
+		{
+			"id": "16",
+			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2015-06-28",
+			"readerCount": 32
+		},
+		{
+			"id": "17",
+			"headline": "Trai suspends new text message norms",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-08-18",
+			"readerCount": 32
+		},
+		{
+			"id": "18",
+			"headline": "UAE makes it to top 10 list of corporate tax havens",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2011-06-8",
+			"readerCount": 52
+		},
+		{
+			"id": "19",
+			"headline": "UAE makes it to top 10 list of corporate tax havens",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
+			"description": "US sues EZ Lynk for selling CMPNY vehicle emissions defeat devices",
+			"subcategory": ["tech", "gadgets"],
+			"date": "2021-06-19",
+			"readerCount": 62
+		},
+		{
+			"id": "20",
+			"headline": "UAE makes it to top 10 list of corporate tax havens",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81408628,imgsize-97514,width-400/81408628.jpg",
+			"description": "Twitter sues Texas AG, claiming retaliation for Trump ban",
+			"subcategory": ["tech", "gadgets"],
+			"date": "2016-6-28",
+			"readerCount": 12
+		},
+		{
+			"id": "21",
+			"headline": "UAE makes it to top 10 list of corporate tax havens",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81412918,imgsize-21913,width-400/81412918.jpg",
+			"description": "Google rolls out Full Coverage feature in Google Search, here’s",
+			"subcategory": ["tech", "gadgets"],
+			"date": "2011-01-28",
+			"readerCount": 32
+		},
+		{
+			"id": "22",
+			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411409,imgsize-39655,width-400/81411409.jpg",
+			"description": "Amazon is giving up to 52% off on Motorola smartphones",
+			"subcategory": ["tech", "gadgets"],
+			"date": "2017-01-02",
+			"readerCount": 21
+		},
+		{
+			"id": "23",
+			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81393664,imgsize-14172,width-400/81393664.jpg",
+			"description": "Amazon is offering up to $140 discount on Apple iMac",
+			"subcategory": ["tech", "gadgets"],
+			"date": "2014-06-08",
+			"readerCount": 31
+		},
+		{
+			"id": "24",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"img_src": "https://static.toiimg.com/thumb/resizemode-4,msid-81306044,imgsize-18898,width-400/81306044.jpg",
+			"description": "5 reasons to have LG dishwasher in your kitchen",
+			"subcategory": ["tech", "gadgets"],
+			"date": "2019-06-28",
+			"readerCount": 51
+		},
+		{
+			"id": "25",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"img_src": "https://static.toiimg.com/thumb/resizemode-4,msid-81405733,imgsize-3164415,width-400/81405733.jpg",
+			"description": "Oppo F19 Pro+ 5G launched at Rs 25,990: All details",
+			"subcategory": ["tech", "gadgets"],
+			"date": "2019-07-28",
+			"readerCount": 31
+		},
+		{
+			"id": "26",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"img_src": "https://static.toiimg.com/thumb/resizemode-4,msid-81408763,imgsize-240998,width-400/81408763.jpg",
+			"description": "What makes Galaxy M12 a #MosnterReloaded?",
+			"subcategory": ["tech", "gadgets"],
+			"date": "2011-06-28",
+			"readerCount": 11
+		},
+		{
+			"id": "27",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"img_src": "https://static.toiimg.com/thumb/resizemode-4,msid-81404255,imgsize-37422,width-400/81404255.jpg",
+			"description": "OnePlus 9 to launch on March 23: Likely specifications, free...",
+			"subcategory": ["tech", "gadgets"],
+			"date": "2020-06-28",
+			"readerCount": 51
+		},
+		{
+			"id": "28",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"img_src": "https://static.toiimg.com/thumb/resizemode-4,msid-81413165,imgsize-468082,width-400/81413165.jpg",
+			"description": "Reliance Jio launches affordable digital plans for small businesses",
+			"subcategory": ["tech", "gadgets"],
+			"date": "2019-06-28",
+			"readerCount": 35		
+		},
+		{
+			"id": "29",
+			"headline": "'Gift of Life': Gavaskar recalls how Sobers helped him 'keep place in side'",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
+			"description": "NAVI MUMBAI: As Indian celebrates 50 years of his iconic Test debut,Sunil Gavaskar<br />Wednesday said he wouldn't have lasted this long had it not been for a couple of lives given by none other than the great Sir Garfield Sobers<br />In my first Test match that I was playing, I was batting on 12 and a drive outside the off-stump and the catch went to the greatest cricketer...Garfield Sobers, it went straight to him and it poked out of his hands, I was on only 12, so I got a gift of cricketing life there, the 71-year-old said here.",
+			"subcategory": ["sports", "cricket"],
+			"date": "2019-06-18",
+			"readerCount": 311
+		},
+		{
+			"id": "30",
+			"headline": "India vs England T20Is: Top 5 England bowlers to watch out for",
+			"image_link": "https://static.toiimg.com/thumb/msid-81430122,imgsize-816102,width-400,resizemode-4/81430122.jpg",
+			"description": "NEW DELHI: After suffering a 1-3 defeat at the hands of India in the four-match Test series, England will look to turn their fortunes around in the five-match T20I series beginning on March 12 in Ahmedabad.<br />The upcoming series will help both teams get some very good practice before the T20 World Cup which is scheduled to be played in October-November this year in India.The world number one T20I and ODI team, England, boast good bowlers in their ranks who can win matches on their own",
+			"subcategory": ["sports", "cricket"],
+			"date": "2019-11-28",
+			"readerCount": 11
+		},
+		{
+			"id": "31",
+			"headline": "Pant reaches career-best seventh position in ICC Test rankin...",
+			"image_link": "https://static.toiimg.com/thumb/msid-81430122,imgsize-816102,width-400,resizemode-4/81430122.jpg",
+			"description": "DUBAI: Following his breathtaking century in the fourth Test against England, young Indian wicketkeeper batsman<br/>Rishabh Pant on Wednesday achieved a career-best seventh position in the ICC Test rankings< br/> Pant has jumped seven places after smashing a match-winning 101 in the Ahmedabad Test, which India won by an innings and 25 runs to clinch the series 3-1.Washington Sundar, who also played a crucial role in India's passage to the final of the ICC World Test Championship, has gained 39 places and is in 62nd position, thanks to his 96 not out, but captain Virat Kohli and <img src='https://static.toiimg.com/photo/81422300.cms'/>",
+			"subcategory": ["sports", "cricket"],
+			"date": "2019-06-18",
+			"readerCount": 41
+		},
+		{
+			"id": "32",
+			"headline": "Record-breaker Haaland can 'dominate an era'",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
+			"description": "BERLIN:coach Julen Lopetegui predicts,We were punished by a player who will dominate an era, said Lopetegui after Haaland sent more Champions League records tumbling with two goals in Tuesday's last 16, return leg. Sevilla earned a 2-2 draw after Youssef En-Nesyri headed his second goal deep into injury time, but Dortmund went through 5-4 on aggregate and the night belonged to Haaland. The Norwegian phenomenon has now scored a career total of 20 goals in just 14 Champions League, including the two he scored in a 3-2 victory when Dortmund won the first-leg in Sevilla.",
+			"subcategory": ["sports", "football"],
+			"date": "2017-06-28",
+			"readerCount": 11
+		},
+		{
+			"id": "33",
+			"headline": "Juventus' Ronaldo experiment flops with more Champions Leagu ..",
+			"image_link": "https://static.toiimg.com/thumb/msid-81434805,imgsize-122363,width-400,resizemode-4/81434805.jpg",
+			"description": "TURIN: Cristiano Ronaldo's future at Juventus was in the spotlight after a third Champions League flop for the Portuguese star expensively signed to deliver the trophy that has eluded the Italian giants for quarter of a century. Juventus crashed out in the last 16 for the second year running on Tuesday night, losing to 10-man Porto on away goals despite winning the second leg 3-2 in Turin Record Champions League scorer Ronaldo, who was signed for 100 million euros ($117 million) in the summer of 2018 from",
+			"subcategory": ["sports", "football"],
+			"date": "2019-06-08",
+			"readerCount": 31
+		},
+		{
+			"id": "34",
+			"headline": "Jose Mourinho looking to mark career milestone with trophy for Spurs",
+			"description": "Tottenham Hotspur Jose Mourinho will be managing his 1,000th match later this season and the Portuguese said on Wednesday there was no better way to mark the milestone than by winning a trophy for the Spurs last won a trophy in 2008 when they lifted the League Cup and the north London club are in the final once again this season while they are also in contention in the Europa League. < br/>I'm not a big guy on stats, but my 1,000th official match is going to arrive this season, Mourinho told reporters ahead of Thursday's Europa League last-16, first leg against Dinamo Zagreb.",
+			"subcategory": ["sports", "football"],
+			"date": "2011-06-18",
+			"readerCount": 33
+		},
+		{
+			"id": "35",
+			"headline": "Jose Mourinho looking to mark career milestone with trophy for Spurs",
+			"description": "Tottenham Hotspur Pep Guardiola says he may not be able to give much time on the pitch before his contract is due to end as the club's record goalscorer, 32, is back in contention after a season ravaged by injury and illness but is short of match fitness and there is little opportunity for the City boss to ease him back into action Asked if he hopes Aguero stays longer at the Etihad, Guardiola said: As a human and as a person, even as a player, of course -- but we have to see what happens at the end of the season.",
+			"subcategory": ["sports", "football"],
+			"date": "2019-06-30",
+			"readerCount": 32
+		},
+		{
+			"id": "36",
+			"headline": "Man City vs Gladbach Champions League game to be played in Budapest",
+			"description": "Tottenham travel restrictions in Europe and will now be held on March 16 at the Puskas Arena, UEFA added. The game was originally scheduled for City's Etihad Stadium, and the first leg in Germany was also shifted to Budapest on February 24 UEFA is able to officially confirm that the UEFA Champions League round of 16 second leg match between Manchester City and Borussia Monchengladbach will now be played at the Puskas Arena in Budapest, the governing body said in a statement.",
+			"subcategory": ["sports", "football"],
+			"date": "2019-06-31",
+			"readerCount": 31
+		},
+		{
+			"id": "37",
+			"headline": "We are not seeing this as dress rehearsal for T20 World Cup: Rohit Sharma",
+			"image_link": "https://static.toiimg.com/thumb/msid-81434030,imgsize-940863,width-400,resizemode-4/81434030.jpg",
+			"description": "AHMEDABAD: India vice-captain, young Indian wicketkeeper batsman<br/>Rishabh Pant on Wednesday achieved a career-best seventh position in the ICC Test rankings< br/> India have picked some fresh faces for the series while resting lead pacer Jasprit Bumrah as the team looks to build on its preparations for the showpiece event. Pant has jumped seven places after smashing a match-winning 101 in the Ahmedabad Test, which India won by an innings and 25 runs to clinch the series 3-1.Washington Sundar, who also played a crucial role in India's passage to the final of the ICC World Test Championship, on Wednesday said his team is not seeing the upcoming five-match series against England as a dress rehearsal for the",
+			"subcategory": ["sports", "cricket"],
+			"date": "2019-10-31",
+			"readerCount": 113
+		},
+		{
+			"id": "38",
+			"headline": "Michael Vaughan warns Test cricket a 'joke' if England rotate in Ashes",
+			"image_link": "https://static.toiimg.com/thumb/msid-81435233,imgsize-68325,width-400,resizemode-4/81435233.jpg",
+			"description": "LONDON: Michael Vaughan, fears Test cricket will become a 'joke' if England rotate players in and out of their side during the 2021/22 Ashes in Australia< br/> England coach picked some fresh faces for the series while resting lead pacer has suggested the team could continue with the controversial rest-and-rotation policy they used in Sri Lanka and India.. Pant has jumped seven places after smashing a match-winning 101 in the Ahmedabad Test, which India won by an innings and 25 runs to clinch the series 3-1.Washington Sundar, who also played a crucial role in India's passage to the final of the ICC World Test Championship, on Wednesday said his team is not seeing the upcoming five-match series against England as a dress rehearsal for the A number of players including",
+			"subcategory": ["sports", "cricket"],
+			"date": "2021-01-01",
+			"readerCount": 13
+		},
+		{
+		"id": "39",
+			"headline": "Elon Musk adds $25 billion in one day as tech rally boosts fortunes",					
+			"description": "NEW DELHI:just hit a new milestone: He made a record $25 billion in one day. Tesla Inc’s 20% jump on Tuesday -- its biggest in more than a year -- pushed the billionaire founder’s fortune to $174 billion, closing the gap with the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.nc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high",
+			"image_link": "https://static.toiimg.com/thumb/msid-81471142,imgsize-99446,width-400,resizemode-4/81471142.jpg",
+			"subcategory": ["economy"],
+			"readerCount": 17,
+			"date": "2010-01-28"
+		},
+		{
+			"id": "40",
+			"headline": "China's Ant Group CEO Hu quits amid regulatory-driven revamp",
+			"description": "NEW DELHI: chief executive officer Simon Hu has resigned from his role, the company said on Friday, as the financial technology giant is being pushed by regulators to overhaul its business after its failed $37 billion initial public offering. <br/>Hu, who was named chief executive of the Alibaba Group Holding affiliate in 2019, will be replaced by company veteran and Executive Chairman Eric Jing, Ant said. Jing told Ant employees that the company would review its staff incentive programmes and roll out some measures starting from April to help solve their financial problems, according to two people who have seen the messages.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81470871,imgsize-86898,width-400,resizemode-4/81470871.jpg",
+			"subcategory": ["finance" ,"others"],
+			"readerCount": 11,
+			"date": "2010-01-28"
+		},
+		{
+			"id": "41",
+			"headline": "Tencent faces broad China clampdown on fintech, deals",
+			"description": "BENGALURU: Holdings Ltd has been put on notice. Asia’s largest conglomerate was censured by China’s antitrust watchdog on Friday as Beijing expands a crackdown that began with Jack Ma’s online empire.<br/>The two firms will set a precedent for other fintech players on complying with tougher regulations, the people added. Such a move would mark a significant escalation in China’s campaign to curb the influence of its technology moguls, days after Premier Li Keqiang pledged at the National People’s Congress to expand oversight of financial technology, stamp out monopolies, and prevent the “unregulated” expansion of capital We will continue to adapt to changes in the regulatory environment, which we view as beneficial to the industry, and will seek to ensure full compliance,” Tencent said in an emailed statement following the fine by the antitrust watchdog. The company declined to comment on financial regulatory matters. to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81466185,imgsize-188513,width-400,resizemode-4/81466185.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 10,
+			"date": "2010-11-28"
+		}
+	],
+
+	"cricket":[
+		{
+			"id": "1",
+			"headline": "'Gift of Life': Gavaskar recalls how Sobers helped him 'keep place in side'",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
+			"description": "NAVI MUMBAI: As Indian celebrates 50 years of his iconic Test debut,Sunil Gavaskar<br />Wednesday said he wouldn't have lasted this long had it not been for a couple of lives given by none other than the great Sir Garfield Sobers<br />In my first Test match that I was playing, I was batting on 12 and a drive outside the off-stump and the catch went to the greatest cricketer...Garfield Sobers, it went straight to him and it poked out of his hands, I was on only 12, so I got a gift of cricketing life there, the 71-year-old said here.",
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 71,
+			"date": "2020-01-28"
+		},
+		{
+			"id": "2",
+			"headline": "India vs England T20Is: Top 5 England bowlers to watch out for",
+			"image_link": "https://static.toiimg.com/thumb/msid-81430122,imgsize-816102,width-400,resizemode-4/81430122.jpg",
+			"description": "NEW DELHI: After suffering a 1-3 defeat at the hands of India in the four-match Test series, England will look to turn their fortunes around in the five-match T20I series beginning on March 12 in Ahmedabad.<br />The upcoming series will help both teams get some very good practice before the T20 World Cup which is scheduled to be played in October-November this year in India.The world number one T20I and ODI team, England, boast good bowlers in their ranks who can win matches on their own",
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 41,
+			"date": "2010-01-28"
+		},
+		{
+			"id": "4",
+			"headline": "We are not seeing this as dress rehearsal for T20 World Cup: Rohit Sharma",
+			"image_link": "https://static.toiimg.com/thumb/msid-81434030,imgsize-940863,width-400,resizemode-4/81434030.jpg",
+			"description": "AHMEDABAD: India vice-captain, young Indian wicketkeeper batsman<br/>Rishabh Pant on Wednesday achieved a career-best seventh position in the ICC Test rankings< br/> India have picked some fresh faces for the series while resting lead pacer Jasprit Bumrah as the team looks to build on its preparations for the showpiece event. Pant has jumped seven places after smashing a match-winning 101 in the Ahmedabad Test, which India won by an innings and 25 runs to clinch the series 3-1.Washington Sundar, who also played a crucial role in India's passage to the final of the ICC World Test Championship, on Wednesday said his team is not seeing the upcoming five-match series against England as a dress rehearsal for the",
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 61,
+			"date": "2011-11-28"
+		},
+		{
+			"id": "5",
+			"headline": "Michael Vaughan warns Test cricket a 'joke' if England rotate in Ashes",
+			"image_link": "https://static.toiimg.com/thumb/msid-81435233,imgsize-68325,width-400,resizemode-4/81435233.jpg",
+			"description": "LONDON: Michael Vaughan, fears Test cricket will become a 'joke' if England rotate players in and out of their side during the 2021/22 Ashes in Australia< br/> England coach picked some fresh faces for the series while resting lead pacer has suggested the team could continue with the controversial rest-and-rotation policy they used in Sri Lanka and India.. Pant has jumped seven places after smashing a match-winning 101 in the Ahmedabad Test, which India won by an innings and 25 runs to clinch the series 3-1.Washington Sundar, who also played a crucial role in India's passage to the final of the ICC World Test Championship, on Wednesday said his team is not seeing the upcoming five-match series against England as a dress rehearsal for the A number of players including",
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 17,
+			"date": "2010-01-18"
+		}
+	],
+	"football":[
+		{
+			"id": "1",
+			"headline": "Record-breaker Haaland can 'dominate an era'",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
+			"description": "BERLIN:coach Julen Lopetegui predicts,We were punished by a player who will dominate an era, said Lopetegui after Haaland sent more Champions League records tumbling with two goals in Tuesday's last 16, return leg. Sevilla earned a 2-2 draw after Youssef En-Nesyri headed his second goal deep into injury time, but Dortmund went through 5-4 on aggregate and the night belonged to Haaland. The Norwegian phenomenon has now scored a career total of 20 goals in just 14 Champions League, including the two he scored in a 3-2 victory when Dortmund won the first-leg in Sevilla.",
+			"subcategory": ["sports", "football"],
+			"readerCount": 17,
+			"date": "2020-11-28"
+		},
+		{
+			"id": "2",
+			"headline": "Juventus' Ronaldo experiment flops with more Champions Leagu ..",
+			"image_link": "https://static.toiimg.com/thumb/msid-81434805,imgsize-122363,width-400,resizemode-4/81434805.jpg",
+			"description": "TURIN: Cristiano Ronaldo's future at Juventus was in the spotlight after a third Champions League flop for the Portuguese star expensively signed to deliver the trophy that has eluded the Italian giants for quarter of a century. Juventus crashed out in the last 16 for the second year running on Tuesday night, losing to 10-man Porto on away goals despite winning the second leg 3-2 in Turin Record Champions League scorer Ronaldo, who was signed for 100 million euros ($117 million) in the summer of 2018 from",
+			"subcategory": ["sports", "football"],
+			"readerCount": 111,
+			"date": "2011-11-28"
+		},
+		{
+			"id": "3",
+			"headline": "Jose Mourinho looking to mark career milestone with trophy for Spurs",
+			"description": "Tottenham Hotspur Jose Mourinho will be managing his 1,000th match later this season and the Portuguese said on Wednesday there was no better way to mark the milestone than by winning a trophy for the Spurs last won a trophy in 2008 when they lifted the League Cup and the north London club are in the final once again this season while they are also in contention in the Europa League. < br/>I'm not a big guy on stats, but my 1,000th official match is going to arrive this season, Mourinho told reporters ahead of Thursday's Europa League last-16, first leg against Dinamo Zagreb.",
+			"subcategory": ["sports", "football"],
+			"readerCount": 17,
+			"date": "2011-11-18"
+		},
+		{
+			"id": "4",
+			"headline": "Jose Mourinho looking to mark career milestone with trophy for Spurs",
+			"description": "Tottenham Hotspur Pep Guardiola says he may not be able to give much time on the pitch before his contract is due to end as the club's record goalscorer, 32, is back in contention after a season ravaged by injury and illness but is short of match fitness and there is little opportunity for the City boss to ease him back into action Asked if he hopes Aguero stays longer at the Etihad, Guardiola said: As a human and as a person, even as a player, of course -- but we have to see what happens at the end of the season.",
+			"subcategory": ["sports", "football"],
+			"readerCount": 117,
+			"date": "2010-11-08"
+		},{
+			"id": "5",
+			"headline": "Man City vs Gladbach Champions League game to be played in Budapest",
+			"description": "Tottenham travel restrictions in Europe and will now be held on March 16 at the Puskas Arena, UEFA added. The game was originally scheduled for City's Etihad Stadium, and the first leg in Germany was also shifted to Budapest on February 24 UEFA is able to officially confirm that the UEFA Champions League round of 16 second leg match between Manchester City and Borussia Monchengladbach will now be played at the Puskas Arena in Budapest, the governing body said in a statement.",
+			"subcategory": ["sports", "football"],
+			"readerCount": 117,
+			"date": "2020-11-08"
+		}
+	],
+	"genearl_sports": [
+		{
+			"id": "1",
+			"headline": "'Gift of Life': Gavaskar recalls how Sobers helped him 'keep place in side'",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
+			"description": "NAVI MUMBAI: As Indian celebrates 50 years of his iconic Test debut,Sunil Gavaskar<br />Wednesday said he wouldn't have lasted this long had it not been for a couple of lives given by none other than the great Sir Garfield Sobers<br />In my first Test match that I was playing, I was batting on 12 and a drive outside the off-stump and the catch went to the greatest cricketer...Garfield Sobers, it went straight to him and it poked out of his hands, I was on only 12, so I got a gift of cricketing life there, the 71-year-old said here.",
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 17,
+			"date": "2020-01-28"
+		},
+		{
+			"id": "2",
+			"headline": "India vs England T20Is: Top 5 England bowlers to watch out for",
+			"image_link": "https://static.toiimg.com/thumb/msid-81430122,imgsize-816102,width-400,resizemode-4/81430122.jpg",
+			"description": "NEW DELHI: After suffering a 1-3 defeat at the hands of India in the four-match Test series, England will look to turn their fortunes around in the five-match T20I series beginning on March 12 in Ahmedabad.<br />The upcoming series will help both teams get some very good practice before the T20 World Cup which is scheduled to be played in October-November this year in India.The world number one T20I and ODI team, England, boast good bowlers in their ranks who can win matches on their own",
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 411,
+			"date": "2010-01-28"
+		},
+		{
+			"id": "4",
+			"headline": "We are not seeing this as dress rehearsal for T20 World Cup: Rohit Sharma",
+			"image_link": "https://static.toiimg.com/thumb/msid-81434030,imgsize-940863,width-400,resizemode-4/81434030.jpg",
+			"description": "AHMEDABAD: India vice-captain, young Indian wicketkeeper batsman<br/>Rishabh Pant on Wednesday achieved a career-best seventh position in the ICC Test rankings< br/> India have picked some fresh faces for the series while resting lead pacer Jasprit Bumrah as the team looks to build on its preparations for the showpiece event. Pant has jumped seven places after smashing a match-winning 101 in the Ahmedabad Test, which India won by an innings and 25 runs to clinch the series 3-1.Washington Sundar, who also played a crucial role in India's passage to the final of the ICC World Test Championship, on Wednesday said his team is not seeing the upcoming five-match series against England as a dress rehearsal for the",
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 16,
+			"date": "2011-11-28"
+		},
+		{
+			"id": "5",
+			"headline": "Michael Vaughan warns Test cricket a 'joke' if England rotate in Ashes",
+			"image_link": "https://static.toiimg.com/thumb/msid-81435233,imgsize-68325,width-400,resizemode-4/81435233.jpg",
+			"description": "LONDON: Michael Vaughan, fears Test cricket will become a 'joke' if England rotate players in and out of their side during the 2021/22 Ashes in Australia< br/> England coach picked some fresh faces for the series while resting lead pacer has suggested the team could continue with the controversial rest-and-rotation policy they used in Sri Lanka and India.. Pant has jumped seven places after smashing a match-winning 101 in the Ahmedabad Test, which India won by an innings and 25 runs to clinch the series 3-1.Washington Sundar, who also played a crucial role in India's passage to the final of the ICC World Test Championship, on Wednesday said his team is not seeing the upcoming five-match series against England as a dress rehearsal for the A number of players including",
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 17,
+			"date": "2010-01-18"
+		},
+		{
+			"id": "6",
+			"headline": "Record-breaker Haaland can 'dominate an era'",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
+			"description": "BERLIN:coach Julen Lopetegui predicts,We were punished by a player who will dominate an era, said Lopetegui after Haaland sent more Champions League records tumbling with two goals in Tuesday's last 16, return leg. Sevilla earned a 2-2 draw after Youssef En-Nesyri headed his second goal deep into injury time, but Dortmund went through 5-4 on aggregate and the night belonged to Haaland. The Norwegian phenomenon has now scored a career total of 20 goals in just 14 Champions League, including the two he scored in a 3-2 victory when Dortmund won the first-leg in Sevilla.",
+			"subcategory": ["sports", "football"],
+			"readerCount": 71,
+			"date": "2020-11-28"
+		},
+		{
+			"id": "7",
+			"headline": "Juventus' Ronaldo experiment flops with more Champions Leagu ..",
+			"image_link": "https://static.toiimg.com/thumb/msid-81434805,imgsize-122363,width-400,resizemode-4/81434805.jpg",
+			"description": "TURIN: Cristiano Ronaldo's future at Juventus was in the spotlight after a third Champions League flop for the Portuguese star expensively signed to deliver the trophy that has eluded the Italian giants for quarter of a century. Juventus crashed out in the last 16 for the second year running on Tuesday night, losing to 10-man Porto on away goals despite winning the second leg 3-2 in Turin Record Champions League scorer Ronaldo, who was signed for 100 million euros ($117 million) in the summer of 2018 from",
+			"subcategory": ["sports", "football"],
+			"readerCount": 111,
+			"date": "2011-11-28"
+		},
+		{
+			"id": "8",
+			"headline": "Jose Mourinho looking to mark career milestone with trophy for Spurs",
+			"description": "Tottenham Hotspur Jose Mourinho will be managing his 1,000th match later this season and the Portuguese said on Wednesday there was no better way to mark the milestone than by winning a trophy for the Spurs last won a trophy in 2008 when they lifted the League Cup and the north London club are in the final once again this season while they are also in contention in the Europa League. < br/>I'm not a big guy on stats, but my 1,000th official match is going to arrive this season, Mourinho told reporters ahead of Thursday's Europa League last-16, first leg against Dinamo Zagreb.",
+			"subcategory": ["sports", "football"],
+			"readerCount": 171,
+			"date": "2011-11-18"
+		},
+		{
+			"id": "9",
+			"headline": "Jose Mourinho looking to mark career milestone with trophy for Spurs",
+			"description": "Tottenham Hotspur Pep Guardiola says he may not be able to give much time on the pitch before his contract is due to end as the club's record goalscorer, 32, is back in contention after a season ravaged by injury and illness but is short of match fitness and there is little opportunity for the City boss to ease him back into action Asked if he hopes Aguero stays longer at the Etihad, Guardiola said: As a human and as a person, even as a player, of course -- but we have to see what happens at the end of the season.",
+			"subcategory": ["sports", "football"],
+			"readerCount": 117,
+			"date": "2010-11-08"
+		},
+		{
+			"id": "11",
+			"headline": "Man City vs Gladbach Champions League game to be played in Budapest",
+			"description": "Tottenham travel restrictions in Europe and will now be held on March 16 at the Puskas Arena, UEFA added. The game was originally scheduled for City's Etihad Stadium, and the first leg in Germany was also shifted to Budapest on February 24 UEFA is able to officially confirm that the UEFA Champions League round of 16 second leg match between Manchester City and Borussia Monchengladbach will now be played at the Puskas Arena in Budapest, the governing body said in a statement.",
+			"subcategory": ["sports", "football"],
+			"readerCount": 117,
+			"date": "2020-11-08"
+		}
+	
+	],
+	"adsCorner": [
+		{
+		  "id":1,
+		  "img":"https://i.postimg.cc/ZY3vrqVy/banner2.png"
+		},
+		{
+		  "id":2,
+		  "img": "https://i.postimg.cc/tTWYDBrz/banner.png"
+		},
+		{
+		  "id":3,
+		  "img": "https://i.postimg.cc/tTWYDBrz/banner.png"
+		},
+		{
+		  "id":4,
+		  "img": "https://i.postimg.cc/tTWYDBrz/banner.png"
+		},
+		{
+		  "id":5,
+		  "img":"https://i.postimg.cc/tTWYDBrz/banner.png"
+		},
+		{
+		  "id":6,
+		  "img":"https://i.postimg.cc/tTWYDBrz/banner.png"
+		},
+		{
+		  "id":7,
+		  "img":"https://i.postimg.cc/tTWYDBrz/banner.png"
+		}
+	  ],
+	  "advertisement": [
+		{
+		  "id": 1,
+		  "img": "https://s0.2mdn.net/simgad/15455256095868308298"
+		},
+		{
+		  "id": 2,
+		  "img": "https://tpc.googlesyndication.com/simgad/17609750535360873687?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qk1D97j3bFpKuWPW4sP_TfNYR2M_Q"
+		},
+		{
+		  "id": 3,
+		  "img": "https://s0.2mdn.net/9291847/0121_EN_LSS_APAC_ConnectWDecisionMakers_LearnMore_300x250.png"
+		},
+		{
+		  "id": 4,
+		  "img": "https://tpc.googlesyndication.com/simgad/14872409437734601541?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qll2LEOZhlrTSJD0kRJfGhx-uq63w"
+		},
+		{
+		  "id":5,
+		  "img": "https://tpc.googlesyndication.com/simgad/18269697451596243169?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4qmdGgYLAzeUiinGsn_ly19XYNPkWw"
+		},
+		{
+		  "id":6,
+		  "img":"https://tpc.googlesyndication.com/simgad/5601865039053721583?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qnEuSC5ESIQQnWtAu6_iBky9bZ0rQ"
+		},
+		{
+		  "id":7,
+		  "img": "https://tpc.googlesyndication.com/simgad/9191058842479565689?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qlxqlEYJKc1ChKJntlZ-7O5ZmAUpA"
+		},
+		{
+		  "id":8,
+		  "img": "https://tpc.googlesyndication.com/simgad/12390845631899955543?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4qk7CI46mXAj7MVqBImnUqOE1h1KHQ"
+		},
+		{
+		  "id":9,
+		  "img":"https://tpc.googlesyndication.com/simgad/6769301854873088857?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qmfjSFv9o6zAbh1kN2vomqA4QGfcA"
+		},
+		{
+		  "id":10,
+		  "img":"https://tpc.googlesyndication.com/simgad/18278014132796209250?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qmY04m-20PPkR9IAmqGOtQSgZ9WfQ"
+		},
+		{
+		  "id":11,
+		  "img": "https://tpc.googlesyndication.com/simgad/3042449755104617105?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4qkuMd09yuL4O-Cmt-mcGQ0uJ_ZUhw"
+		}
+	  ]
 }
