@@ -1332,5 +1332,210 @@
 		  "id":11,
 		  "img": "https://tpc.googlesyndication.com/simgad/3042449755104617105?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4qkuMd09yuL4O-Cmt-mcGQ0uJ_ZUhw"
 		}
-	  ]
+	  ],
+
+	  "top_news":[
+		{
+			"id": "1",
+			"author": null,
+            "title": "CNBC-TV18's top stocks to watch out for on May 31 - CNBCTV18",
+            "description": "The Indian market is likely to open lower on Monday following a mixed trend in Asian peers. However, falling COVID-19 infection rates in India may lift sentiment. At 7:10 am, the SGX Nifty was trading 67.00 points or 0.43 percent lower at 15,425.50.Get latest…",
+            "url": "https://www.cnbctv18.com/photos/market/stocks/cnbc-tv18s-top-stocks-to-watch-out-for-on-may-31-bank-of-baroda-hdfc-bank-kotak-mahindra-bank-indigo-spicejet-glenmark-cadila-healthcare-divis-laboratories-affle-pnb-9486631.htm",
+            "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2018/03/Economy-018-768x432.jpg",
+            "publishedAt": "2021-05-31T01:58:19Z",
+            "content": "The Indian market is likely to open lower on Monday following a mixed trend in Asian peers. However, falling COVID-19 infection rates in India may lift sentiment. At 7:10 am, the SGX Nifty was tradin… [+3247 chars]"
+		},
+		{
+			"id": "2",
+			"author": "HT Entertainment Desk",
+            "title": "Kamaal R Khan locks his Twitter account after ugly feud with Salman Khan, Mika Singh - Hindustan Times",
+            "description": "Kamaal R Khan has locked his Twitter profile. He is caught up in a legal feud with Salman Khan since he shared a review of his film Radhe. | Entertainment News",
+            "url": "https://www.hindustantimes.com/entertainment/bollywood/kamaal-r-khan-locks-his-twitter-account-after-ugly-feud-with-salman-khan-mika-singh-101622397774591.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/05/30/1600x900/_bab40be2-3808-11e8-bfda-ec16c1256850_1622397900597.JPG",
+            "publishedAt": "2021-05-31T01:46:03Z",
+            "content": "After his recent, much-talked-about feud with Bollywood star Salman Khan, self-proclaimed critic Kamaal Rashid Khan has now changed the settings on his Twitter account and made it a private one. KRK … [+1960 chars]"
+		},
+		{
+			"id": "3",
+			"author": "TIMESOFINDIA.COM",
+            "title": "Weight loss: 5 ways your high protein diet is making you gain weight - Times of India",
+            "description": "Fixating on a high protein diet may be slyly stopping you from achieving your weight loss goals, and instead making you put on weight. We tell you how",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/diet/weight-loss-5-ways-your-high-protein-diet-is-making-you-gain-weight/photostory/83087253.cms",
+            "urlToImage": "https://static.toiimg.com/photo/83087394.cms",
+            "publishedAt": "2021-05-31T01:30:00Z",
+            "content": "Protein is an essential nutrient and it's important to have it regularly. While proper protein intake helps maintain muscle mass, stay fuller for longer hours, support your immune system and healthy … [+372 chars]"
+		},
+		{
+			"id": "4",
+			"author": "Liz Mathew",
+            "title": "Govt’s Year 8 begins with dented public trust, some doubts within - The Indian Express",
+            "description": "The sharply falling Covid curve and the safety net announced for children and a section of the next of kin may have brought some respite but many senior party leaders The Indian Express spoke with underlined the enormity of the challenges ahead.",
+            "url": "https://indianexpress.com/article/india/bjp-government-narendra-modi-leadership-covid-crisis-7337308/",
+            "urlToImage": "https://images.indianexpress.com/2021/05/pic-2-21.jpg",
+            "publishedAt": "2021-05-31T01:17:39Z",
+            "content": "Marking its seventh anniversary in power at the Centre, the ruling BJP enters its eighth year grappling with two unprecedented challenges within: one, a dent in public trust in the government during … [+5835 chars]"
+		},
+		{
+			"id": "5",
+			"author": "Vijay Tagore",
+            "title": "After testing negative for Covid, Mehul Choksi admitted to hospital - Times of India",
+            "description": "India News: NEW DELHI: Absconding diamond dealer Mehul Choksi has now been admitted to a hospital in Dominica.",
+            "url": "https://timesofindia.indiatimes.com/india/after-testing-negative-for-covid-mehul-choksi-admitted-to-hospital/articleshow/83102986.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-83103195,width-1070,height-580,imgsize-29490,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-05-31T01:16:00Z",
+            "content": "Dominica Court extends stay on Mehul Choksi's deportation, allows him to meet lawyersThe Eastern Caribbean Supreme Court (ECSC) on Friday, after taking note of submissions made in the Mehul Choksi's … [+165 chars]"
+		},
+		{
+			"id": "6",
+			"author": "Prabha Raghavan",
+            "title": "Tests on mixed vaccines may start in a few weeks - The Indian Express",
+            "description": "The testing may be carried out both using vaccines that are currently available in the country, and those that are in the pipeline.",
+            "url": "https://indianexpress.com/article/india/coronavirus-tests-on-mixed-vaccines-may-start-in-a-few-weeks-7337261/",
+            "urlToImage": "https://images.indianexpress.com/2021/05/testing-5.jpg",
+            "publishedAt": "2021-05-31T01:14:52Z",
+            "content": "India may soon begin testing the feasibility of a regimen that mixes two different Covid-19 vaccines to see if it helps boost immune response to the virus.\r\nThe testing may be carried out both using … [+2515 chars]"
+		},
+		{
+			"id": "7",
+			"author": "ENS Economic Bureau",
+            "title": "Govt credit scheme for oxygen plants, banks to give Covid loans - The Indian Express",
+            "description": "The overall size of ECLGS, however, has been kept at Rs 3 lakh crore, out of which about Rs 45,000 crore is left to be sanctioned. Those who have already availed loans under the scheme can get additional assistance of up to 10 per cent of outstanding dues as …",
+            "url": "https://indianexpress.com/article/india/govt-credit-scheme-for-oxygen-plants-banks-to-give-covid-loans-7337311/",
+            "urlToImage": "https://images.indianexpress.com/2021/05/credit-line.jpg",
+            "publishedAt": "2021-05-31T01:04:39Z",
+            "content": "As a part of its push to bolster the economy amid the second Covid wave, the Government Sunday expanded the scope of the Emergency Credit Line Guarantee Scheme (ECLGS) to provide more relief to small… [+5334 chars]"
+		},
+		{
+			"id": "8",
+			"author": "Express News Service",
+            "title": "Covid patient’s body dumped in river in UP, nephew among 2 held - The Indian Express",
+            "description": "Police said Prem Nath Mishra, 65, succumbed to Covid-related complications on Friday, three days after he was admitted to Balrampur District Hospital.",
+            "url": "https://indianexpress.com/article/cities/lucknow/covid-patients-body-dumped-in-river-in-up-nephew-among-2-held-7337358/",
+            "urlToImage": "https://images.indianexpress.com/2021/05/pic-3-19.jpg",
+            "publishedAt": "2021-05-31T00:50:37Z",
+            "content": "The Balrampur police on Sunday arrested a man for allegedly dumping the body of his uncle, who died of Covid-19 complications on May 28, into the Rapti river. A local who allegedly helped him was als… [+1650 chars]"
+		},
+		{
+			"id": "9",
+			"author": "ANI",
+            "title": "Covid-19 origin: 'Wuhan lab was engaged in military activity...' says Pompeo - Hindustan Times",
+            "description": "Covid-19 origin: China is coming under increasing pressure over probe into the origins of the Covid-19, even as scientists are demanding more clarity to go into the roots of the global pandemic.",
+            "url": "https://www.hindustantimes.com/world-news/covid19-origin-wuhan-lab-was-engaged-in-military-activity-says-pompeo-101622420358112.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/05/31/1600x900/2021-01-15T171520Z_1_LYNXMPEH0E18R_RTROPTP_3_USA-POMPEO-EUROPE_1610861066707_1610861077843_1622420503761.JPG",
+            "publishedAt": "2021-05-31T00:25:12Z",
+            "content": "Former Secretary of State Mike Pompeo on Saturday said that the Wuhan Institute of Virology (WIV) was engaged in military activity alongside its civilian research -- amid renewed scrutiny of the theo… [+2105 chars]"
+		},
+		{
+			"id": "10",
+			"author": null,
+            "title": "Scores Of Children Kidnapped From Islamic Seminary In Nigeria: Authorities - NDTV",
+            "description": "Gunmen on Sunday kidnapped scores of children from an Islamic seminary in central Nigeria's Niger state, police and residents said.",
+            "url": "https://www.ndtv.com/world-news/scores-of-children-kidnapped-from-islamic-seminary-in-nigeria-authorities-2452645",
+            "urlToImage": "https://i.ndtvimg.com/i/2018-03/police-generic-international-afp_650x400_41520126059.jpg",
+            "publishedAt": "2021-05-31T00:13:34Z",
+            "content": "The state government, in a series of tweets, said attackers had released 11 pupils (Representational)\r\nKano, Nigeria: Gunmen on Sunday kidnapped scores of children from an Islamic seminary in central… [+2364 chars]"
+		},
+		{
+			"id": "11",
+			"author": null,
+            "title": "Israel's Benjamin Netanyahu Could Lose PM Job As Rivals Move To Unseat Him - NDTV",
+            "description": "Israeli nationalist hardliner Naftali Bennett said Sunday he would join a potential coalition government that could end the rule of the country's longest-serving leader, Prime Minister Benjamin Netanyahu.",
+            "url": "https://www.ndtv.com/world-news/israel-opposition-inches-closer-to-forming-coalition-government-without-prime-minister-benjamin-netanyahu-2452644",
+            "urlToImage": "https://c.ndtvimg.com/2021-05/81gcmcmg_benjamin-netanyahuafp_625x300_31_May_21.jpg",
+            "publishedAt": "2021-05-30T23:51:07Z",
+            "content": "Benjamin Netanyahu who faces trial on fraud, bribery and breach of trust charges, which he denies\r\nJerusalem: Israeli nationalist hardliner Naftali Bennett said Sunday he would join a potential coali… [+4984 chars]"
+		},
+		{
+			"id": "12",
+			"author": "Dave Johnson",
+            "title": "PS5 restock update: How to buy PlayStation 5 at Best Buy, Target, Walmart and other major retailers - CNET",
+            "description": "Who will have PS5s this week?",
+            "url": "https://www.cnet.com/news/ps5-restock-update-how-to-buy-playstation-5-at-target-best-buy-walmart-and-other-major-retailers/",
+            "urlToImage": "https://www.cnet.com/a/img/p9A15IZmDdsCKMJz2IYqUFi1Unk=/1200x630/2021/04/19/bc2484e8-b005-4c2b-8aa8-7f08c351fd1c/ps5-blue.jpg",
+            "publishedAt": "2021-05-30T22:53:40Z",
+            "content": "If you're still trying to get your hands on a PS5, which still might seem impossible right now, we can help.\r\nThe situation seems to be improving, which is good news. In the past week, there were PS5… [+6961 chars]"
+		},
+		{
+			"id": "13",
+			"author": "TNN",
+            "title": "Covid treatment: Banks offer unsecured loans of up to 5 lakh - Times of India",
+            "description": "India Business News: Banks will offer off-the-shelf unsecured loans of up to Rs 5 lakh to individuals for Covid treatment, and business loans up to Rs 100 crore for settin",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/covid-treatment-banks-offer-unsecured-loans-of-up-to-5-lakh/articleshow/83100237.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-83100249,width-1070,height-580,imgsize-29982,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-05-30T20:32:00Z",
+            "content": "Covid treatment: Banks offer unsecured loans of up to 5 lakh"
+		},
+		{
+			"id": "14",
+			"author": null,
+            "title": "US on track for July 4 vaccination target: CDC - Greater Kashmir",
+            "description": "US on track for July 4 vaccination target: CDC Greater Kashmir | The US is on track to reach a target calling for 70 per cent of adults to have received at least one dose of a Covid-19 vaccine by July 4, according to",
+            "url": "https://www.greaterkashmir.com/news/front-page-2/us-on-track-for-july-4-vaccination-target-cdc/",
+            "urlToImage": "https://i0.wp.com/www.greaterkashmir.com/wp-content/uploads/2020/12/vaccine-1-new_571_855.jpg?fit=855%2C571&ssl=1",
+            "publishedAt": "2021-05-30T19:42:56Z",
+            "content": "The US is on track to reach a target calling for 70 per cent of adults to have received at least one dose of a Covid-19 vaccine by July 4, according to the Centers for Disease Control and Prevention … [+1218 chars]"
+		},
+
+		{
+			"id": "15",
+			"author": "Samrudhi Ghosh",
+            "title": "Arjun Kapoor recalls working as AD on films starring his now co-stars, Saif Ali Khan and John Abraham - Hindustan Times",
+            "description": "Arjun Kapoor, who worked as an assistant director on Kal Ho Naa Ho and Salaam-e-Ishq, is now working with Saif Ali Khan and John Abraham as a co-star. | Entertainment News",
+            "url": "https://www.hindustantimes.com/entertainment/bollywood/arjun-kapoor-recalls-working-as-ad-on-films-starring-his-now-co-stars-saif-ali-khan-and-john-abraham-101622392234930.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/05/30/1600x900/162226176_1390263977980707_3636971776672180676_n_1622392447075_1622392458107.jpg",
+            "publishedAt": "2021-05-30T19:30:17Z",
+            "content": "Before Arjun Kapoor made his Bollywood debut in 2012 with Ishaqzaade, he worked as an assistant director to Nikkhil Advani on Kal Ho Naa Ho and Salaam-e-Ishq. In a way, life has come full circle for … [+2179 chars]"
+		},
+		{
+			"id": "16",
+			"author": "Rishabh Suri",
+            "title": "Rohit Roy: You want to doll up, take a walk, please do, but at least clean up your pet’s sh*t - Hindustan Times",
+            "description": "Actor Rohit Roy says people should not let their pets poop on roads and not even clean up afterwards.",
+            "url": "https://www.hindustantimes.com/entertainment/tv/rohit-roy-you-want-to-doll-up-take-a-walk-please-do-but-at-least-clean-up-your-pet-s-sht-101622398843082.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/05/30/1600x900/6120f9e2-c08f-11eb-a02f-b8472ed09407_1622398842159.jpg",
+            "publishedAt": "2021-05-30T18:20:42Z",
+            "content": "At a time when hygiene has become paramount given the health crisis that has engulfed the country, actor Rohit Roy has raised a pertinent issue people taking their pets for a walk outside and not bot… [+1524 chars]"
+		},
+		{
+			"id": "17",
+			"author": "BollywoodLife",
+            "title": "After Amit Kumar’s criticism, Sunidhi Chauhan REVEALS she quit Indian Idol as a judge because the makers aske - Bollywood Life",
+            "description": "When Sunidhi Chauhan was asked why did the makers of Indian Idol make such demands, she said that it must be to seek attention and hold the audience.",
+            "url": "https://www.bollywoodlife.com/tv/after-amit-kumars-criticism-sunidhi-chauhan-reveals-she-quit-indian-idol-as-a-judge-because-the-makers-asked-her-to-praise-contestants-1837175/",
+            "urlToImage": "https://st1.bollywoodlife.com/wp-content/uploads/2021/05/sunidhichauhan5_95957363_593007541331201_8443779385251561347_n-600x315.jpg",
+            "publishedAt": "2021-05-30T18:04:55Z",
+            "content": "Indian Idol 12 has been mired in controversies ever since it began airing on television. From faking love angles to cashing in on poverty stories of the contestants, the singing reality show has beco… [+2572 chars]"
+		},
+		{
+			"id": "18",
+			"author": "PTI",
+            "title": "Pooja strikes gold; silver for Mary Kom, 2 others at Asian Boxing Championships - Times of India",
+            "description": "Boxing News: Defending champion Pooja Rani (75kg) was the lone Indian woman boxer to strike gold at the Asian Championships while three others, including six-time",
+            "url": "https://timesofindia.indiatimes.com/sports/boxing/pooja-strikes-gold-silver-for-mary-kom-2-others-at-asian-boxing-championships/articleshow/83089218.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-83093693,width-1070,height-580,imgsize-47885,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-05-30T17:37:00Z",
+            "content": "Pooja strikes gold; silver for Mary Kom, 2 others at Asian Boxing Championships"
+		},
+		{
+			"id" : "19",
+			"author": "Alphonse Joseph",
+            "title": "Scientists find drug that blocks multiple coronavirus variants in mice - Oneindia",
+            "description": "Scientists have identified a new drug which is highly effective in preventing severe COVID-19 in mice infected with SARS-CoV-2, and could also treat other respiratory coronaviruses.",
+            "url": "https://www.oneindia.com/india/scientists-find-drug-that-blocks-multiple-coronavirus-variants-in-mice-3267166.html",
+            "urlToImage": "https://www.oneindia.com/img/1200x80/2020/04/scientists-1585708467.jpg",
+            "publishedAt": "2021-05-31T08:18:23Z",
+            "content": "New Delhi, May 31: Scientists have identified a new drug which is highly effective in preventing severe COVID-19 in mice infected with SARS-CoV-2, and could also treat other respiratory coronaviruses… [+3130 chars]"
+		},
+		{
+			"id": "20",
+			"author": "Monit Khanna",
+            "title": "NASA Curiosity Rover Captures Rare Shiny Clouds In Mars Atmosphere - India Times",
+            "description": "NASA’s Curiosity rover might not be as state-of-the-art in technology as the recently-deployed Perseverance is, but it continues to make mind-blowing discoveries even today. And recently, the rover captured a rare signing in the Martian atmosphere -- clouds. …",
+            "url": "https://www.indiatimes.com/technology/science-and-future/nasa-curiosity-rover-shiny-mars-clouds-541605.html",
+            "urlToImage": "https://im.indiatimes.in/content/2021/May/Facebook-Image-42_60b4930379dd9.jpg",
+            "publishedAt": "2021-05-31T08:15:12Z",
+            "content": "NASAs Curiosity rover might not be as state-of-the-art in technology as the recently-deployed Perseverance is, but it continues to make mind-blowing discoveries even today. And recently, the rover ca… [+1825 chars]"
+		}
+	
+	]
 }
